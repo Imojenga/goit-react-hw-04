@@ -1,4 +1,3 @@
-import css from './App.module.css';
 import ErrorMessage from '../ErrorMessage/ErrorMessage';
 import ImageGallery from '../ImageGallery/ImageGallery';
 import Loader from '../Loader/Loader';
